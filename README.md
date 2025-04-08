@@ -2,20 +2,20 @@
 
 <div align="center">
 
-[![GitHub issues](https://img.shields.io/github/issues/atulguptag/Django-eCommerce-Website?color=pink&logo=github)](https://github.com/atulguptag/Django-eCommerce-Website/issues)
+[![GitHub issues](https://img.shields.io/github/issues/santoshbtpl/Django-eCommerce-Website?color=pink&logo=github)](https://github.com/santoshbtpl/Django-eCommerce-Website/issues)
 
-![GitHub forks](https://img.shields.io/github/forks/atulguptag/Django-eCommerce-Website?logo=git)
-![GitHub Repo stars](https://img.shields.io/github/stars/atulguptag/Django-eCommerce-Website)
-[![Contributors](https://img.shields.io/github/contributors/atulguptag/Django-eCommerce-Website?style=plastic&?color=2b9348)](https://github.com/atulguptag/Django-eCommerce-Website/contributors)
+![GitHub forks](https://img.shields.io/github/forks/santoshbtpl/Django-eCommerce-Website?logo=git)
+![GitHub Repo stars](https://img.shields.io/github/stars/santoshbtpl/Django-eCommerce-Website)
+[![Contributors](https://img.shields.io/github/contributors/santoshbtpl/Django-eCommerce-Website?style=plastic&?color=2b9348)](https://github.com/santoshbtpl/Django-eCommerce-Website/contributors)
 [![Access Here](https://img.shields.io/badge/Access-Here-brightgreen?style=plastic)](https://djangoecommercewebsite.pythonanywhere.com/)
-![GitHub License](https://img.shields.io/github/license/atulguptag/Django-eCommerce-Website?style=plastic&link=https%3A%2F%2Fgithub.com%2Fatulguptag%2FDjango-eCommerce-Website%2Fblob%2Fmain%2FLICENSE)
+![GitHub License](https://img.shields.io/github/license/santoshbtpl/Django-eCommerce-Website?style=plastic&link=https%3A%2F%2Fgithub.com%2Fsantoshbtpl%2FDjango-eCommerce-Website%2Fblob%2Fmain%2FLICENSE)
 
 </div>
 
 This project is a full-fledged eCommerce website built using Django, a high-level Python web framework. It includes essential features such as user authentication, product browsing, cart management, checkout process, payment integration, and more. The website is designed to be robust, scalable, and user-friendly, providing a seamless shopping experience for customers.
 
 ## Table of Contents
-
+:%s/santoshbtpl/santoshbtpl/g
 - [Features](#features)
 - [Screenshots](#screenshots)
 - [Technologies Used](#technologies-used)
@@ -115,7 +115,7 @@ To run this project locally, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/atulguptag/Django-eCommerce-Website.git
+   git clone https://github.com/santoshbtpl/Django-eCommerce-Website.git
    cd Django-eCommerce-Website
    ```
 
@@ -210,4 +210,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 💰 You can help me by Donating. Any small amount will help me to create more projects like this in future 😀. Otherwise, it is not necessary.
 
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/atulguptaa)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/santoshbtpl)
